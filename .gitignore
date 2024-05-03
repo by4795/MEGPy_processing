@@ -1,0 +1,9 @@
+.DS_store
+.env
+.vscode
+*.pyc
+*.pyo
+*.egg-info
+__pycache__
+/build/
+/test/
